@@ -35,6 +35,7 @@
 
 ## 📁 Project Structure
 
+```
 osint-aggregator/
 ├── 📄 main.py
 ├── 📁 modules/
@@ -48,6 +49,7 @@ osint-aggregator/
 ├── 📁 config/
 │   └── 🔑 api_keys.py
 └── 📖 README.md
+```
 
 ---
 
