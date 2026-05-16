@@ -95,21 +95,6 @@ python main.py
 
 ---
 
-## 📸 Demo
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OSINT INTELLIGENCE REPORT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Target   : prerak369
-Date     : 2026-05-17 21:30:00
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FINDINGS:
-GITHUB    : https://github.com/prerak369
-TELEGRAM  : https://t.me/prerak369
-REDDIT    : Not Found
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
----
-
 ## ⚠️ Disclaimer
 
 > This tool is for **educational and ethical use only**.  
