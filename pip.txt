@@ -1,0 +1,16 @@
+pip install requests rich colorama pyfiglet python-whois dnspython
+pip install httpx
+
+
+
+ osint-aggregator/
+├── main.py              # CLI entry point
+├── modules/
+│   ├── username.py
+│   ├── email_recon.py
+│   ├── ip_intel.py
+│   ├── domain_recon.py
+│   └── ai_report.py
+├── reports/             # Generated PDF/JSON reports
+├── config.py            # API keys
+└── README.md
